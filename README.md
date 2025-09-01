@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+![](profile-3d-contrib/Bottom_up.svg)
 
 <p align="center">
     <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -13,5 +13,5 @@
 
 
 
-![](./pic/001.jpg)
+![](./profile-3d-contrib/001.jpg)
 
